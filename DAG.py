@@ -1,9 +1,6 @@
 '''
 =================================================
-Milestone 3
-
-Nama  : Samuel Tatang Surja
-Batch : HCK-012
+Anime Market Analysis
 
 This is DAG file to run airflow to automate a set of task:
 1. Fetch data from PostgreSQL
